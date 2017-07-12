@@ -1,6 +1,6 @@
-FROM       cyberdojofoundation/swift:3.1
-MAINTAINER Byran Wills-Heath <byran@adgico.co.uk>
-
-COPY red_amber_green.rb /usr/local/bin
+FROM  cyberdojofoundation/swift:3.1
+LABEL maintainer=byran@adgico.co.uk
 
 RUN apt install -y curl
+
+COPY red_amber_green.rb /usr/local/bin
