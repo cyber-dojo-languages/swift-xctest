@@ -1,4 +1,4 @@
-FROM  cyberdojofoundation/swift:4.0.3
+FROM  cyberdojofoundation/swift
 LABEL maintainer=byran@adgico.co.uk
 
 RUN apt-get update \
