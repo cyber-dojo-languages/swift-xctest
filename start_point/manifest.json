@@ -1,4 +1,3 @@
-
 {
   "display_name": "Swift, XCTest",
 
@@ -11,7 +10,7 @@
 
   "image_name": "cyberdojofoundation/swift_xctest",
 
-  "filename_extension" : ".swift",
+  "filename_extension": ".swift",
 
   "runner_choice": "stateful"
 }
