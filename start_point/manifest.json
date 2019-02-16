@@ -10,7 +10,5 @@
 
   "image_name": "cyberdojofoundation/swift_xctest",
 
-  "filename_extension": ".swift",
-
-  "runner_choice": "stateful"
+  "filename_extension": ".swift"
 }
