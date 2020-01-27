@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/bash -Eeu
 
 swiftc *.swift && ./main

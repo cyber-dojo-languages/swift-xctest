@@ -1,6 +1,5 @@
 FROM cyberdojofoundation/swift
 LABEL maintainer=byran@adgico.co.uk
-
-RUN apt install -y libcurl4-openssl-dev
+LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
