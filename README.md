@@ -1,4 +1,3 @@
-
 [![CircleCI](https://circleci.com/gh/cyber-dojo-languages/swift-xctest.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/swift-xctest)
 
 ## display_name="Swift, XCTest"
