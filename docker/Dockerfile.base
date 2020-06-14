@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/swift
+FROM cyberdojofoundation/swift:9d16bc2
 LABEL maintainer=byran@adgico.co.uk
 LABEL maintainer=jon@jaggersoft.com
 
