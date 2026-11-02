@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/swift:32ba767
+FROM ghcr.io/cyber-dojo-languages/swift:ea4302b@sha256:0eca0c7fe3e7a6ff9a48d031003f919868bc71cfcd81b7db2a8239a1f9cdfbdf
 LABEL maintainer=byran@adgico.co.uk
 LABEL maintainer=jon@jaggersoft.com
 
